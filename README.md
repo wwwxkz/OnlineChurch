@@ -12,3 +12,6 @@ A React Native app for crurchs | One of my favorite apps / projects
   * set up all firebase and admob configs in auth, home, buy tab
   * set up all firebase and admob configs in android / ios folder | maybe this help you https://github.com/ugurdalkiran/react-native-admob-setup
   * now you can run react-native run-android
+  
+  # Firebase rules
+  <img src="https://github.com/wxkz/OnlineChurch/blob/master/README/rules.png">
